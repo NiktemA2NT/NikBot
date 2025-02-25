@@ -1,1 +1,1 @@
-# DiscordBots
+# NikBot is not released yet!
